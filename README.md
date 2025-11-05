@@ -10,4 +10,4 @@
 📚 Currently learning: *Advanced React Hooks *  
 🌱 Passionate about building real-world projects and improving UI/UX  
 
-📫 *Reach me at:* syedaiqrabukhar04@gmail.com  
+📫 *Reach me at:* sadiqiqra04@gmail.com  
